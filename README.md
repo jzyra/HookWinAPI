@@ -1,7 +1,8 @@
 # HookWinAPI
 
 This library allows the implementation of interception functions to intercept calls to Windows system functions.  
-It enables developers to alter the behavior of system functions by injecting custom code.
+It enables developers to alter the behavior of system functions by injecting custom code.  
+This library allows you to produce DLL files that can be injected into Windows processes using tools such as: https://github.com/jzyra/inject-dll
 
 # Build
 
